@@ -1,0 +1,31 @@
+{
+  "name": "montaigne-next",
+  "version": "1.0.0",
+  "description": "Montaigne website made with Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RatnasambhavInMontaingne/Montaigne-Next.git"
+  },
+  "author": "Ratnasmabhav Priyadarshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RatnasambhavInMontaingne/Montaigne-Next/issues"
+  },
+  "homepage": "https://github.com/RatnasambhavInMontaingne/Montaigne-Next#readme",
+  "dependencies": {
+    "@zeit/next-sass": "^0.2.0",
+    "next": "^6.0.2",
+    "node-sass": "^4.9.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
